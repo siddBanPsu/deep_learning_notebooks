@@ -1,4 +1,4 @@
-# udemy_advanced_computer_vision
+# Udemy Advanced Computer Vision
 Pytorch repo of the coding exercises from Udemy Advanced Computer Vision course by Lazy Programmer: https://www.udemy.com/advanced-computer-vision/.
 
 ### Requirements
