@@ -7,3 +7,4 @@ Pytorch 0.4.1
 #### Jupyter Notebooks
 1. [CNN on Fashion-MNIST dataset](../master/Fashion-MNIST-pytorch.ipynb). 
 2. [Transfer learning using VGG16 on Fruits 360 dataset](../master/VGG16-transfer-fruits360.ipynb).
+3. [Neural Style Transfer using VGG19 pre-trained model](../master/Neural_Style_Transfer.ipynb).
